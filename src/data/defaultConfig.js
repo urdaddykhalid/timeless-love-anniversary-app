@@ -1,42 +1,42 @@
-﻿export const defaultConfig = {
+export const defaultConfig = {
   creatorName: "daddykhalid",
   partnerName: "تالا",
   anniversaryDate: "2026-03-26",
-  shortLetter: "احبك تالا مواحححححح.",
+  shortLetter: "أحبك يا تالا.. عسى ربي ما يحرمني منك. ❤️",
   longLetter: "أراني إذا صليتُ يممتُ نحوها.. بوجهي وإن كان المصلى ورائيا\n\nوما بي إشراكٌ ولكن حبها.. وعظم الجوى أعيا الطبيب المداويا\n\nأحبكِ فوق حب المحبين حباً.. وأعلم أني بحبكِ قد غلبتُ الأمانيا\n\nيا تالا،\nبين لغات البرمجة وأكواد الحماية.. وجدتُ فيكِ الأمان الذي لا يُخترق.\n\nForever yours,\ndaddykhalid",
   letterMode: "long",
   timeline: [
     {
-      title: "أول لقاء",
+      title: "أول مرة شفتك",
       date: "2026-03-26",
       emoji: "💫",
-      description: "اليوم اللي بدأ فيه كل شيء جميل."
+      description: "اليوم اللي انكتب فيه أجمل فصل بحياتي."
     },
     {
-      title: "أول كلمة",
+      title: "أول سوالفنا",
       date: "2026-03-27",
       emoji: "💬",
-      description: "ساعات مرت كأنها ثواني."
+      description: "سولفنا ساعات.. وما حسيت بالوقت معك."
     },
     {
-      title: "إلى الأبد",
+      title: "4ever",
       date: "2030-01-01",
       emoji: "♾️",
-      description: "وعدنا اللي ما ينتهي."
+      description: "ily mommy."
     }
   ],
   photos: [
-    { src: "", caption: "ذكرى جميلة" },
-    { src: "", caption: "أجمل لحظة" }
+    { src: "", caption: "ذكرى غالية" },
+    { src: "", caption: "أجمل لحظاتنا" }
   ],
   promises: [
-    "سأكون دائماً أمانك.",
-    "سأجعل أيامك مليئة بالفرح.",
-    "سأظل أحبك كل يوم أكثر."
+    ".",
+    ".",
+    "بظل أحبك.. ."
   ],
   futureCards: [
-    { title: "حلمنا", icon: "🏡", description: "بيت صغير يجمعنا." },
-    { title: "سفر", icon: "✈️", description: "نلف العالم سوا." }
+    { title: "بيتنا", icon: "🏡", description: "بيت صغير يجمعنا.. بضحكاتنا وقهوتنا." },
+    { title: "نسافر سوا", icon: "✈️", description: "نلف الدنيا مع بعض.. ونجمع ذكريات بكل مكان." }
   ],
   theme: {
     palette: "rose",
@@ -51,7 +51,7 @@
     password: ""
   },
   music: {
-    source: "",
-    volume: 0.6
+    source: "/TADC – Thing (Steampianist) Metal Sonic Cover.mp3",
+    volume: 0.5
   }
 };
