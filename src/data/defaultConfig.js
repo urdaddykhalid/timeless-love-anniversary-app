@@ -1,93 +1,42 @@
 ﻿export const defaultConfig = {
-  creatorName: "Romeo",
-  partnerName: "Juliet",
-  anniversaryDate: "2020-02-14",
-  shortLetter:
-    "To my favorite human, thank you for turning ordinary days into glow moments.",
-  longLetter:
-    "My love,\n\nEvery chapter with you feels like a gentle sunrise. I love the way you notice tiny details, the way you make silence feel safe, and the way your laugh spills into my day. This gift is a small memory box for us — a reminder that our story is still unfolding, softly and beautifully.\n\nForever yours.",
+  creatorName: "daddykhalid",
+  partnerName: "تالا",
+  anniversaryDate: "2026-03-26",
+  shortLetter: "احبك تالا مواحححححح.",
+  longLetter: "أراني إذا صليتُ يممتُ نحوها.. بوجهي وإن كان المصلى ورائيا\n\nوما بي إشراكٌ ولكن حبها.. وعظم الجوى أعيا الطبيب المداويا\n\nأحبكِ فوق حب المحبين حباً.. وأعلم أني بحبكِ قد غلبتُ الأمانيا\n\nيا تالا،\nبين لغات البرمجة وأكواد الحماية.. وجدتُ فيكِ الأمان الذي لا يُخترق.\n\nForever yours,\ndaddykhalid",
   letterMode: "long",
   timeline: [
     {
-      title: "First Meet",
-      date: "2019-08-14",
+      title: "أول لقاء",
+      date: "2026-03-26",
       emoji: "💫",
-      description: "The day the universe decided we should orbit each other."
+      description: "اليوم اللي بدأ فيه كل شيء جميل."
     },
     {
-      title: "First Talk",
-      date: "2019-08-16",
+      title: "أول كلمة",
+      date: "2026-03-27",
       emoji: "💬",
-      description: "We talked for hours, and time forgot to move."
+      description: "ساعات مرت كأنها ثواني."
     },
     {
-      title: "First Photo",
-      date: "2019-09-03",
-      emoji: "📸",
-      description: "That snapshot still feels like a warm hug."
-    },
-    {
-      title: "First Trip",
-      date: "2020-01-12",
-      emoji: "🌍",
-      description: "A tiny adventure that felt like a forever memory."
-    },
-    {
-      title: "First Fight",
-      date: "2020-04-10",
-      emoji: "😅",
-      description: "We learned how to choose each other again."
-    },
-    {
-      title: "Today",
-      date: "2026-02-09",
-      emoji: "❤️",
-      description: "Still choosing you, every single day."
-    },
-    {
-      title: "Forever",
-      date: "2030-02-14",
+      title: "إلى الأبد",
+      date: "2030-01-01",
       emoji: "♾️",
-      description: "A promise that keeps blooming."
+      description: "وعدنا اللي ما ينتهي."
     }
   ],
   photos: [
-    {
-      src: "",
-      caption: "A soft moment"
-    },
-    {
-      src: "",
-      caption: "Our favorite memory"
-    },
-    {
-      src: "",
-      caption: "Somewhere we laughed"
-    }
+    { src: "", caption: "ذكرى جميلة" },
+    { src: "", caption: "أجمل لحظة" }
   ],
   promises: [
-    "I will always be your calm.",
-    "I will make ordinary days feel special.",
-    "I will cheer for your dreams as if they were mine.",
-    "I will keep learning how to love you better.",
-    "I will keep choosing you, even on quiet days."
+    "سأكون دائماً أمانك.",
+    "سأجعل أيامك مليئة بالفرح.",
+    "سأظل أحبك كل يوم أكثر."
   ],
   futureCards: [
-    {
-      title: "Dream Home",
-      icon: "🏡",
-      description: "A cozy place filled with morning coffee and late-night talks."
-    },
-    {
-      title: "Travel",
-      icon: "✈️",
-      description: "Collecting sunsets, city lights, and handwritten postcards."
-    },
-    {
-      title: "Life Goals",
-      icon: "🌱",
-      description: "Growing together, softly and steadily."
-    }
+    { title: "حلمنا", icon: "🏡", description: "بيت صغير يجمعنا." },
+    { title: "سفر", icon: "✈️", description: "نلف العالم سوا." }
   ],
   theme: {
     palette: "rose",
